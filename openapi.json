@@ -8,7 +8,7 @@
       "/": {
         "get": {
           "operationId": "listVersionsv2",
-          "summary": "List API versions",
+          "summary": "List API versions (new)",
           "responses": {
             "200": {
               "description": "200 response",
